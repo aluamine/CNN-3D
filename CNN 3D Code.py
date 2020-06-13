@@ -102,3 +102,5 @@ plt.ylabel('Loss value')
 plt.xlabel('No. epoch')
 plt.legend(loc="upper left")
 plt.show()
+
+my new edit file
